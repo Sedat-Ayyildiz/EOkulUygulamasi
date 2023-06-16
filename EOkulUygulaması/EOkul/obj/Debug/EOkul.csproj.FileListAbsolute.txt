@@ -1,0 +1,49 @@
+C:\Users\sedat\source\repos\EOkul\EOkul\bin\Debug\EOkul.exe.config
+C:\Users\sedat\source\repos\EOkul\EOkul\bin\Debug\EOkul.exe
+C:\Users\sedat\source\repos\EOkul\EOkul\bin\Debug\EOkul.pdb
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.Properties.Resources.resources
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.exe
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.pdb
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.FrmOgrenciNotlar.resources
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.FrmOgretmen.resources
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.FrmKulup.resources
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.FrmGiris.resources
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.FrmDersler.resources
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.FrmOgrenci.resources
+C:\Users\sedat\source\repos\EOkul\EOkul\obj\Debug\EOkul.FrmSınavNotlar.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\bin\Debug\EOkul.exe.config
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\bin\Debug\EOkul.exe
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\bin\Debug\EOkul.pdb
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmDersler.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmGiris.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmKulup.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmOgrenci.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmOgrenciNotlar.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmOgretmen.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmSınavNotlar.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.Properties.Resources.resources
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.exe
+C:\Users\sedat\source\repos\#-)C# aKAPSAMLI PROJELER\5-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\bin\Debug\EOkul.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\bin\Debug\EOkul.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\bin\Debug\EOkul.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmDersler.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmGiris.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmKulup.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmOgrenci.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmOgrenciNotlar.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmOgretmen.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.FrmSınavNotlar.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.Properties.Resources.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.csproj.GenerateResource.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\4-) E-Okul Projesi(DataSet ile Cruid İşlemleri)\EOkul\obj\Debug\EOkul.pdb
